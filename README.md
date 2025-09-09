@@ -2,7 +2,10 @@
 
 Solutions of CSES problem sets
 
-## Introductory Problems
+<details>
+<summary>
+Introductory Problems
+</summary>
 
 - [Weird Algorithm](weird_algorithm.cpp)
 - [Missing Number](missing_number.cpp)
@@ -29,7 +32,12 @@ Solutions of CSES problem sets
 - [String Reorder](string_reorder.cpp)
 - [Grid Path Description](grid_path_description.cpp)
 
-## Sorting and Searching
+</details>
+
+<details>
+<summary>
+Sorting and Searching
+</summary>
 
 - [Distinct Numbers](distinct_numbers.cpp)
 - [Apartments](apartments.cpp)
@@ -67,7 +75,12 @@ Solutions of CSES problem sets
 - [Movie Festival II](movie_festival_ii.cpp)
 - [Maximum Subarray Sum II](maximum_subarray_sum_ii.cpp)
 
-## Dynamic Programming
+</details>
+
+<details>
+<summary>
+Dynamic Programming
+</summary>
 
 - Dice Combinations
 - [Minimizing Coins](minimizing_coins.cpp)
@@ -93,7 +106,12 @@ Solutions of CSES problem sets
 - [Counting Numbers](counting_numbers.cpp)
 - [Increasing Subsequence II](increasing_subsequence_ii.cpp)
 
-## Graph Algorithms
+</details>
+
+<details>
+<summary>
+Graph Algorithms
+</summary>
 
 - [Counting Rooms](counting_rooms.cpp)
 - [Labyrinth](labyrinth.cpp)
@@ -132,7 +150,12 @@ Solutions of CSES problem sets
 - [School Dance](school_dance.cpp)
 - [Distinct Routes](distinct_routes.cpp)
 
-## Range Queries
+</details>
+
+<details>
+<summary>
+Range Queries
+</summary>
 
 - [Static Range Sum Queries](static_range_sum_queries.cpp)
 - [Static Range Minimum Queries](static_range_minimum_queries.cpp)
@@ -160,7 +183,12 @@ Solutions of CSES problem sets
 - [Range Queries and Copies](range_queries_and_copies.cpp)
 - [Missing Coin Sum Queries](missing_coin_sum_queries.cpp)
 
-## Tree Algorithms
+</details>
+
+<details>
+<summary>
+Tree Algorithms
+</summary>
 
 - [Subordinates](subordinates.cpp)
 - [Tree Matching](tree_matching.cpp)
@@ -179,7 +207,12 @@ Solutions of CSES problem sets
 - [Fixed-Length Paths I](fixed-length_paths_i.cpp)
 - [Fixed-Length Paths II](fixed-length_paths_ii.cpp)
 
-## Mathematics
+</details>
+
+<details>
+<summary>
+Mathematics
+</summary>
 
 - [Josephus Queries](josephus_queries.cpp)
 - [Exponentiation](exponentiation.cpp)
@@ -219,7 +252,12 @@ Solutions of CSES problem sets
 - [Grundy's Game](grundys_game.cpp)
 - [Another Game](another_game.cpp)
 
-## String Algorithms
+</details>
+
+<details>
+<summary>
+String Algorithms
+</summary>
 
 - [Word Combinations](word_combinations.cpp)
 - [String Matching](string_matching.cpp)
@@ -243,7 +281,12 @@ Solutions of CSES problem sets
 - [Substring Order II](substring_order_ii.cpp)
 - [Substring Distribution](substring_distribution.cpp)
 
-## Geotmetry
+</details>
+
+<details>
+<summary>
+Geotmetry
+</summary>
 
 - [Point Location Test](point_location_test.cpp)
 - [Line Segment Intersection](line_segment_intersection.cpp)
@@ -262,7 +305,12 @@ Solutions of CSES problem sets
 - [Area of Rectangles](area_of_rectangles.cpp)
 - [Robot Path](robot_path.cpp)
 
-## Advanced Techniques
+</details>
+
+<details>
+<summary>
+Advanced Techniques
+</summary>
 
 - [Meet in the Middle](meet_in_the_middle.cpp)
 - [Hamming Distance](hamming_distance.cpp)
@@ -290,7 +338,12 @@ Solutions of CSES problem sets
 - [Task Assignment](task_assignment.cpp)
 - [Distinct Routes II](distinct_routes_ii.cpp)
 
-## Sliding Window Problems
+</details>
+
+<details>
+<summary>
+Sliding Window Problems
+</summary>
 
 - [Sliding Window Sum](sliding_window_sum.cpp)
 - [Sliding Window Minimum](sliding_window_minimum.cpp)
@@ -304,7 +357,12 @@ Solutions of CSES problem sets
 - [Sliding Window Inversions](sliding_window_inversions.cpp)
 - [Sliding Window Advertisement](sliding_window_advertisement.cpp)
 
-## Interactive Problems
+</details>
+
+<details>
+<summary>
+Interactive Problems
+</summary>
 
 - [Hidden Integer](hidden_integer.cpp)
 - [Hidden Permutation](hidden_permutation.cpp)
@@ -313,7 +371,12 @@ Solutions of CSES problem sets
 - [Colored Chairs](colored_chairs.cpp)
 - [Inversion Sorting](inversion_sorting.cpp)
 
-## Bitwise Operations
+</details>
+
+<details>
+<summary>
+Bitwise Operations
+</summary>
 
 - [Counting Bits](counting_bits.cpp)
 - [Maximum Xor Subarray](maximum_xor_subarray.cpp)
@@ -327,7 +390,12 @@ Solutions of CSES problem sets
 - [SOS Bit Problem](sos_bit_problem.cpp)
 - [And Subset Count](and_subset_count.cpp)
 
-## Construction Problems
+</details>
+
+<details>
+<summary>
+Construction Problems
+</summary>
 
 - [Inverse Inversions](inverse_inversions.cpp)
 - [Monotone Subsequences](monotone_subsequences.cpp)
@@ -338,7 +406,12 @@ Solutions of CSES problem sets
 - [Filling Trominos](filling_trominos.cpp)
 - [Grid Path Construction](grid_path_construction.cpp)
 
-## Advanced Graph Problems
+</details>
+
+<details>
+<summary>
+Advanced Graph Problems
+</summary>
 
 - [Nearest Shops](nearest_shops.cpp)
 - [Prüfer Code](prüfer_code.cpp)
@@ -369,7 +442,12 @@ Solutions of CSES problem sets
 - [Creating Offices](creating_offices.cpp)
 - [New Flight Routes](new_flight_routes.cpp)
 
-## Counting Problems
+</details>
+
+<details>
+<summary>
+Counting Problems
+</summary>
 
 - [Filled Subgrid Count I](filled_subgrid_count_i.cpp)
 - [Filled Subgrid Count II](filled_subgrid_count_ii.cpp)
@@ -390,7 +468,12 @@ Solutions of CSES problem sets
 - [Collecting Numbers Distribution](collecting_numbers_distribution.cpp)
 - [Functional Graph Distribution](functional_graph_distribution.cpp)
 
-## Additional Problems I
+</details>
+
+<details>
+<summary>
+Additional Problems I
+</summary>
 
 - [Shortest Subsequence](shortest_subsequence.cpp)
 - [Distinct Values Sum](distinct_values_sum.cpp)
@@ -423,7 +506,12 @@ Solutions of CSES problem sets
 - [Cyclic Array](cyclic_array.cpp)
 - [List of Sums](list_of_sums.cpp)
 
-## Additional Problems II
+</details>
+
+<details>
+<summary>
+Additional Problems II
+</summary>
 
 - [Bouncing Ball Steps](bouncing_ball_steps.cpp)
 - [Bouncing Ball Cycle](bouncing_ball_cycle.cpp)
@@ -455,3 +543,5 @@ Solutions of CSES problem sets
 - [Stick Difference](stick_difference.cpp)
 - [Coding Company](coding_company.cpp)
 - [Two Stacks Sorting](two_stacks_sorting.cpp)
+
+</details>
